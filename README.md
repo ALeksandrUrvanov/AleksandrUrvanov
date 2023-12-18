@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <tr>
   <td>7</td>
-  <td><a href = "https://github.com/ALeksandrUrvanov/churn_telecom_customers"> Прогнозирование оттока клиентов из компании "Теледом" </a></td>
+  <td><a href = "https://github.com/ALeksandrUrvanov/churn_telecom_customers"> Прогнозирование оттока клиентов компании "Теледом" </a></td>
   <td> Обучить модель для прогноза оттока клиентов. </td>
   <td> pandas, numpy, scipy, sklearn, matplotlib, seaborтn </td>
   <td> NeuralNetwork опередила остальные модели. На тестовой выборке NeuralNetwork показала ROC-AUC: 0.85. Что удовлетворяет поставленным требованиям компании оператора связи.</td>
