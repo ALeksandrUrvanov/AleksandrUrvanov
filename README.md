@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 <tr>
   <td>8</td>
-  <td><a href = "https://github.com/ALeksandrUrvanov/churn_hotel_customers"> Прогнозирование отказа клиентов отеля от брони. </a></td>
+  <td><a href = "https://github.com/ALeksandrUrvanov/churn_hotel_customers"> Прогнозирование отказа клиентов отеля от брони </a></td>
   <td> Обучить модель для прогнозирования отказа клиентов отеля от брони. </td>
   <td> pandas, numpy, scipy, sklearn, matplotlib, seaborn </td>
   <td>  Модель дерева решений показала хорошие результаты на тестовой выборке ROC-AUC = 0.9198 . Модель принесёт компании выручку: 8 841 480 рублей, что является целесообразным действием при затратах на разработку системы прогнозирования 400 000 рублей.  </td>
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 <tr>
   <td>9</td>
-  <td><a href = "https://github.com/ALeksandrUrvanov/recommend_tariffs"> Рекомендация тарифов телекоммуникацинной компании. </a></td>
+  <td><a href = "https://github.com/ALeksandrUrvanov/recommend_tariffs"> Рекомендация тарифов телекоммуникацинной компании </a></td>
   <td> Построить модель для задачи классификации, которая выберет подходящий тариф с значением Accuracy не меньше 0.75. </td>
   <td> pandas, numpy, scipy, sklearn, matplotlib, seaborn </td>
   <td> На тестовой выборке модель случайного леса показала Accuracy = 0.7791.  </td>
