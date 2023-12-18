@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/ALeksandrUrvanov/predictions_orders_taxi"> Прогнозирование заказов такси </a> </td>
   <td> Разработать модель прогнозирования количество заказов такси на следующий час. Значение метрики RMSE на тестовой выборке должно быть не больше 48. </td>
   <td> pandas, numpy, sklearn </td>
-  <td> Лучшей моделью можно считать RandomForestRegressor. RMSE на тестовой выборке 46, что входит в требуемый диапазон не больше 48. </td>
+  <td> Лучшей моделью можно считать RandomForestRegressor. RMSE на тестовой выборке =  46. </td>
 </tr>
 
 
