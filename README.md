@@ -50,6 +50,13 @@ Here are some ideas to get you started:
   <td> Обучили нейросеть. Достигли заданной метрики RMSE < 4500, с результатом 4491. </td>
 </tr>
 
+<tr>
+  <td>4</td>
+  <td><a href = "https://github.com/ALeksandrUrvanov/predictions_orders_taxi"> Прогнозирование заказов такси </a> </td>
+  <td> Разработать модель прогнозирования количество заказов такси на следующий час. Значение метрики RMSE на тестовой выборке должно быть не больше 48. </td>
+  <td> pandas, numpy, sklearn </td>
+  <td> Лучшей моделью можно считать RandomForestRegressor. RMSE на тестовой выборке 46, что входит в требуемый диапазон не больше 48. </td>
+</tr>
 
 
 
@@ -59,7 +66,7 @@ Here are some ideas to get you started:
 
 
 <tr>
-  <td>4</td>
+  <td>5</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/used_cars_price"> Построение модели предсказания стоимости автомобиля на вторичном рынке </a> </td>
   <td>Целью проекта будет разработанная модель предсказания стоимости автомобиля на вторичном рынке. (задача регрессии)</td>
   <td> pandas, numpy, scipy, sklearn, matplotlib, seaborn </td>
@@ -67,7 +74,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td>5</td>
+  <td>6</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/churn_bank_customers"> Построение модели прогнозирования оттока клиентов банка </a></td>
   <td>разработка модели машинного обучения, прогнозирующей возможный отток клиентов. (задача классификации)</td>
   <td>pandas, numpy, scipy, sklearn, matplotlib, seaborn </td>
