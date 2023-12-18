@@ -30,15 +30,15 @@ Here are some ideas to get you started:
   <td>1</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/used_cars_price"> Построение модели предсказания стоимости автомобиля на вторичном рынке </a> </td>
   <td>Целью проекта будет разработанная модель предсказания стоимости автомобиля на вторичном рынке. (задача регрессии)</td>
-  <td> pandas, numpy, scipy, sklearn, matplotlib, seaborn</td>
+  <td> pandas, numpy, scipy, sklearn, matplotlib, seaborn. </td>
 </tr>
 
 <tr>
   <td>2</td>
-  <td><a href = "https://github.com/ALeksandrUrvanov/churn_bank_customers">«Построение модели прогнозирования оттока клиентов банка‟»</a></td>
-  <td>разработка модели машинного обучения, прогнозирующей возможный отток клиентов (задача классификации)</td>
+  <td><a href = "https://github.com/ALeksandrUrvanov/churn_bank_customers"> Построение модели прогнозирования оттока клиентов банка </a></td>
+  <td>разработка модели машинного обучения, прогнозирующей возможный отток клиентов. (задача классификации)</td>
   <td>pandas, numpy, scipy, sklearn, matplotlib, seaborn. </td>
-  <td> Модель прогнозирования оттока клиентов создана. Качество созданной модели достигло заданного показателя F1 = 0,60, AUC-ROC = 0,85.</td>
+  <td> Модель прогнозирования оттока клиентов создана. Качество созданной модели достигло заданного показателя F1 = 0,60; AUC-ROC = 0,85.</td>
 </tr>
 
 </table>
