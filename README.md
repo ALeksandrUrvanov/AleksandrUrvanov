@@ -28,6 +28,21 @@ Here are some ideas to get you started:
 
 <tr>
   <td>1</td>
+  <td><a href = "https://github.com/ALeksandrUrvanov/subtitles_english_level"> Классификация фильмов по уровню владения английского языка </a> </td>
+  <td>Разработать модель соотносящая фильмы к определенному уровню владения английского языка. (задача классификации)</td>
+  <td> pandas, numpy, sklearn, ntlk. </td>
+  <td> Лучшей моделью можно считать SGDClassifier c accuracy = 0.951220. Для заказчика однозначно рекомендую использовать эту модель для определения уровня английского языка по субтитрам.</td>
+</tr>
+
+
+
+
+
+
+
+
+<tr>
+  <td>1</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/used_cars_price"> Построение модели предсказания стоимости автомобиля на вторичном рынке </a> </td>
   <td>Целью проекта будет разработанная модель предсказания стоимости автомобиля на вторичном рынке. (задача регрессии)</td>
   <td> pandas, numpy, scipy, sklearn, matplotlib, seaborn. </td>
