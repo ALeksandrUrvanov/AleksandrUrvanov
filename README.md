@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <td>3</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/predictions_temperature_stars"> Прогнозирование температуры звезды </a> </td>
   <td> Разработать нейронную сеть, которая поможет предсказывать абсолютную температуру на поверхности звезды. Достичь заданной метрики RMSE < 4500. </td>
-  <td> pandas, numpy, sklearn, matplotlib, seaborn, torchk </td>
+  <td> pandas, numpy, sklearn, matplotlib, seaborn, torch </td>
   <td> Обучили нейросеть. Достигли заданной метрики RMSE < 4500, с результатом 4491. </td>
 </tr>
 
