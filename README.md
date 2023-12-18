@@ -14,3 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## **ВЫПОЛНЕННЫЕ ПРОЕКТЫ**
+
+<table>
+  
+<tr>
+  <th>№</th>
+  <th>Название</th>
+  <th>Задача</th>
+  <th>Библиотеки</th>
+  <th>Технологии</th>
+</tr> 
+
+<tr>
+  <td>1</td>
+  <td><a href = "https://github.com/ALeksandrUrvanov/used_cars_price">«Построение модели предсказания стоимости автомобиля на вторичном рынке‟»</a></td>
+  <td>Целью проекта будет разработанная модель предсказания стоимости автомобиля на вторичном рынке. (задача регрессии)</td>
+  <td> pandas, numpy, scipy, sklearn, matplotlib, seaborn</td>
+</tr>
+
+<tr>
+  <td>2</td>
+  <td><a href = "https://github.com/ALeksandrUrvanov/churn_bank_customers">«Построение модели прогнозирования оттока клиентов банка‟»</a></td>
+  <td>разработка модели машинного обучения, прогнозирующей возможный отток клиентов (задача классификации)</td>
+  <td>Pandas, Numpy, Matplotlib, Seaborn, Skimpy, Datetime, ydata-profiling, Psutil, Phik, Sklearn, Imblearn, Catboost, Xgboost, LightGBM</td>
+  <td>Pipeline, Feature Engineering, RandomizedSearchCV, MinMaxScaler, mutual_info_regression, Mutual Information, OneHotEncoder, OrdinalEncoder, MinMaxScaler, SelectKBest, chi2, VotingClassifier, confusion_matrix, background_gradient</td>
+</tr>
+
+</table>
+
+---
+
+
+
+
+
