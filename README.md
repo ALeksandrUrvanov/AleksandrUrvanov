@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <td>4</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/predictions_orders_taxi"> Прогнозирование заказов такси </a> </td>
   <td> Разработать модель прогнозирования количество заказов такси на следующий час. Значение метрики RMSE на тестовой выборке должно быть не больше 48. </td>
-  <td> pandas, numpy, sklearn </td>
+  <td> pandas, numpy, matplotlib, sklearn, statsmodels, RandomForestRegressor, Ridge, CatBoostRegressor, LGBMRegressor </td>
   <td> Лучшей моделью можно считать RandomForestRegressor. RMSE на тестовой выборке =  46. </td>
 </tr>
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <td>5</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/used_cars_price"> Построение модели предсказания стоимости автомобиля на вторичном рынке </a> </td>
   <td> Разработать модель предсказания стоимости автомобиля на вторичном рынке. </td>
-  <td> pandas, numpy, scipy, sklearn, matplotlib, seaborn </td>
+  <td> pandas, numpy, scipy, sklearn, seaborn </td>
   <td> Разработали модель CatBoostRegressor показатель MAPE = 0.1977. </td>
 </tr>
 
