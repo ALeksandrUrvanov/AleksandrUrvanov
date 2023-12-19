@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <td>1</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/subtitles_english_level"> Классификация фильмов по уровню владения английского языка </a> </td>
   <td>Разработать модель соотносящая фильмы к определенному уровню владения английского языка. </td>
-  <td> pandas, numpy, sklearn, ntlk </td>
+  <td> pandas, numpy, sklearn, ntlk, pipeline, GridSearchCV, MultinomialNB, SGDClassifier  </td>
   <td> Лучшей моделью можно считать SGDClassifier c Accuracy = 0.951220. Для заказчика однозначно рекомендую использовать эту модель для определения уровня английского языка по субтитрам.</td>
 </tr>
 
