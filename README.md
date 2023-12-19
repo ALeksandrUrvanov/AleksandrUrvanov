@@ -142,7 +142,7 @@ Here are some ideas to get you started:
   <td>15</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/predictions_cost_cars"> Определение стоимости автомобилей </a></td>
   <td> Построить модель для определения стоимости. Заказчику важны: качество предсказания, скорость предсказания, время обучения. </td>
-  <td> pandas, python, spark </td>
+  <td> pandas, numpy, sklearn, matplotlib, seaborn, CatBoostRegressor, LGBMRegressor </td>
   <td> Лучшей моделью по трем параметрам качество, скорость обучения и скорость предсказания можно считать CatBoostRegressor. RMSE для модели CatBoostRegressor на тестовой выборке 1328.  </td>
 </tr>
 
