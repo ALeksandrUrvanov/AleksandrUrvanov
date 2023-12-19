@@ -92,9 +92,9 @@ Here are some ideas to get you started:
 
 <tr>
   <td>9</td>
-  <td><a href = "https://github.com/ALeksandrUrvanov/recommend_tariffs"> Рекомендация тарифов телекоммуникацинной компании </a></td>
+  <td><a href = "https://github.com/ALeksandrUrvanov/recommend_tariffs"> Рекомендация тарифов телеком компании </a></td>
   <td> Построить модель для задачи классификации, которая выберет подходящий тариф с значением Accuracy не меньше 0.75. </td>
-  <td> pandas, numpy, scipy, sklearn, matplotlib, seaborn </td>
+  <td> pandas, sklearn </td>
   <td> На тестовой выборке модель случайного леса показала Accuracy = 0.7791.  </td>
 </tr>
 
