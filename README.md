@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/ALeksandrUrvanov/subtitles_english_level"> Классификация фильмов по уровню владения английского языка </a> </td>
   <td>Разработать модель соотносящая фильмы к определенному уровню владения английского языка. </td>
   <td> pandas, numpy, sklearn, ntlk, pipeline, GridSearchCV, MultinomialNB, SGDClassifier  </td>
-  <td> Лучшей моделью можно считать SGDClassifier c Accuracy = 0.951220. Для заказчика однозначно рекомендую использовать эту модель для определения уровня английского языка по субтитрам.</td>
+  <td> Использовал модель SGDClassifier c Accuracy = 0.951220. Для заказчика однозначно рекомендую использовать эту модель для определения уровня английского языка по субтитрам.</td>
 </tr>
 
 <tr>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/ALeksandrUrvanov/predictions_orders_taxi"> Прогнозирование заказов такси </a> </td>
   <td> Разработать модель прогнозирования количество заказов такси на следующий час. Значение метрики RMSE на тестовой выборке должно быть не больше 48. </td>
   <td> pandas, numpy, matplotlib, sklearn, statsmodels, RandomForestRegressor, Ridge, CatBoostRegressor, LGBMRegressor </td>
-  <td> Лучшей моделью можно считать RandomForestRegressor. RMSE на тестовой выборке =  46. </td>
+  <td> Использовал модель RandomForestRegressor. RMSE на тестовой выборке =  46. </td>
 </tr>
 
 <tr>
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/ALeksandrUrvanov/used_cars_price"> Построение модели предсказания стоимости автомобиля на вторичном рынке </a> </td>
   <td> Разработать модель предсказания стоимости автомобиля на вторичном рынке. </td>
   <td> pandas, numpy, scipy, sklearn, seaborn, phik, CatBoostRegressor, XGBRegressor, Ridge </td>
-  <td> Разработали модель CatBoostRegressor показатель MAPE = 0.1977. </td>
+  <td> Разработал модель CatBoostRegressor показатель MAPE = 0.1977. </td>
 </tr>
 
 <tr>
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/ALeksandrUrvanov/predictions_cost_flats"> Предсказание стоимости жилья </a></td>
   <td> Обучить модель линейной регрессии предсказывающую медианную стоимость дома в жилом массиве и сделайте предсказания на тестовой выборке.  </td>
   <td> pandas, numpy, seaborn, matplotlib, pyspark </td>
-  <td> По результату исследования модель с категориальными переменными показала лучшие показатели RMSE = 73713. </td>
+  <td> По результату исследования модель линейной регрессии с категориальными переменными показала лучшие показатели RMSE = 73713. </td>
 </tr>
 
 <tr>
@@ -127,7 +127,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/ALeksandrUrvanov/risk_cars_accident"> Oценить риск ДТП по выбранному маршруту движения </a></td>
   <td> Создать модель предсказания ДТП.  </td>
   <td> pandas, numpy, sklearn, matplotlib, seaborn, lightgbm, shap, phik </td>
-  <td> Использовали модель LightGBM и получить метрику recall = 72.9%, precision = 74.3%,  f1 = 72.7%. </td>
+  <td> Использовал модель LightGBM и получил метрику recall = 72.9%, precision = 74.3%,  f1 = 72.7%. </td>
 </tr>
 
 <tr>
