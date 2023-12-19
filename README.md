@@ -108,9 +108,9 @@ Here are some ideas to get you started:
 
 <tr>
   <td>11</td>
-  <td><a href = "https://github.com/ALeksandrUrvanov/define_age_customers"> Классификация комментариев на позитивные и негативные </a></td>
+  <td><a href = "https://github.com/ALeksandrUrvanov/define_negative_comments"> Классификация комментариев на позитивные и негативные </a></td>
   <td> Построить модель классификации комментариев на позитивные и негативные со значением метрики качества F1 не меньше 0.75. </td>
-  <td> pandas, numpy, ntlk, sklearn </td>
+  <td> pandas, numpy, matplotlib, ntlk, </td>
   <td> Лучшей моделью по требуемому параметру является LogisticRegression.  F1 на тестовой выборке = 0,7761.  </td>
 </tr>
 
