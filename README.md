@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <th>№</th>
   <th>Название</th>
   <th>Задача</th>
-  <th>Библиотеки</th>
+  <th>Навыки и инструменты</th>
   <th>Итоги</th>
 </tr> 
 
