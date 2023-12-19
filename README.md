@@ -126,7 +126,7 @@ Here are some ideas to get you started:
   <td>13</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/risk_cars_accident"> Oценить риск ДТП по выбранному маршруту движения </a></td>
   <td> Создать модель предсказания ДТП.  </td>
-  <td> pandas, python, spark </td>
+  <td> pandas, numpy, sklearn, matplotlib, seaborn, lightgbm, shap, phik </td>
   <td> Использовали модель LightGBM и получить метрику recall = 72.9%, precision = 74.3%,  f1 = 72.7%. </td>
 </tr>
 
