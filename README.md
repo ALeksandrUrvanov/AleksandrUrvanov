@@ -118,7 +118,7 @@ Here are some ideas to get you started:
   <td>12</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/predictions_cost_flats"> Предсказание стоимости жилья </a></td>
   <td> Обучить модель линейной регрессии предсказывающую медианную стоимость дома в жилом массиве и сделайте предсказания на тестовой выборке.  </td>
-  <td> pandas, python, spark </td>
+  <td> pandas, numpy, seaborn, matplotlib, pyspark </td>
   <td> По результату исследования модель с категориальными переменными показала лучшие показатели RMSE = 73713. </td>
 </tr>
 
