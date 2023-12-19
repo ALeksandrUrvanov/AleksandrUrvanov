@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   <td>10</td>
   <td><a href = "https://github.com/ALeksandrUrvanov/define_age_customers"> Определение возраста покупателей по фотографии </a></td>
   <td> Построить и обучить свёрточную нейронную сеть на датасете с фотографиями людей. Добиться значения MAE на тестовой выборке не больше 8. </td>
-  <td> pandas, numpy, scipy, sklearn, matplotlib, seaborn, keras </td>
+  <td> pandas, numpy, matplotlib, seaborn, tensorflow, keras </td>
   <td> Использовали архитектуру ResNet50. Test MAE: 5.8556.  </td>
 </tr>
 
