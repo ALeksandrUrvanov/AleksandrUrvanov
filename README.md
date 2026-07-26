@@ -15,7 +15,7 @@
 ![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=flat&logo=python&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![REST%20API](https://img.shields.io/badge/REST_API-02569B?style=flat)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -28,8 +28,8 @@
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat)
 ![LightGBM](https://img.shields.io/badge/LightGBM-A2C418?style=flat)
 
-![LLM](https://img.shields.io/badge/LLM-111827?style=flat)
-![Agents](https://img.shields.io/badge/Agents-111827?style=flat)
+![LLM](https://img.shields.io/badge/LLM-111827?style=flat&logo=huggingface&logoColor=white)
+![Agents](https://img.shields.io/badge/Agents-111827?style=flat&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-111827?style=flat)
 ![Prompt%20Engineering](https://img.shields.io/badge/Prompt_Engineering-111827?style=flat)
 ![ASR](https://img.shields.io/badge/ASR-111827?style=flat)
