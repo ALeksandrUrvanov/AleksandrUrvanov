@@ -27,17 +27,6 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-E25A1C?style=flat)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat)
 ![LightGBM](https://img.shields.io/badge/LightGBM-A2C418?style=flat)
-
-![LLM](https://img.shields.io/badge/LLM-111827?style=flat&logo=huggingface&logoColor=white)
-![Agents](https://img.shields.io/badge/Agents-111827?style=flat&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-111827?style=flat)
-![Prompt%20Engineering](https://img.shields.io/badge/Prompt_Engineering-111827?style=flat)
-![ASR](https://img.shields.io/badge/ASR-111827?style=flat)
-![OCR](https://img.shields.io/badge/OCR-111827?style=flat)
-![Computer%20Vision](https://img.shields.io/badge/Computer_Vision-111827?style=flat)
-![NLP](https://img.shields.io/badge/NLP-111827?style=flat)
-![NER](https://img.shields.io/badge/NER-111827?style=flat)
-![CLIP](https://img.shields.io/badge/CLIP-111827?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-111827?style=flat)
 ![ONNX](https://img.shields.io/badge/ONNX-111827?style=flat)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
@@ -56,6 +45,20 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+### Навыки
+
+![LLM](https://img.shields.io/badge/LLM-111827?style=flat&logo=huggingface&logoColor=white)
+![Agents](https://img.shields.io/badge/Agents-111827?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111827?style=flat)
+![Prompt%20Engineering](https://img.shields.io/badge/Prompt_Engineering-111827?style=flat)
+![ASR](https://img.shields.io/badge/ASR-111827?style=flat)
+![OCR](https://img.shields.io/badge/OCR-111827?style=flat)
+![Computer%20Vision](https://img.shields.io/badge/Computer_Vision-111827?style=flat)
+![NLP](https://img.shields.io/badge/NLP-111827?style=flat)
+![NER](https://img.shields.io/badge/NER-111827?style=flat)
+![CLIP](https://img.shields.io/badge/CLIP-111827?style=flat)
+![Machine%20Learning](https://img.shields.io/badge/Machine_Learning-111827?style=flat)
 
 ### Языки в репозиториях
 
